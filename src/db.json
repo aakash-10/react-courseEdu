@@ -1,0 +1,95 @@
+{
+  "courses": [
+    {
+      "sys": { "id": 0 },
+      "fields": {
+        "name": "Data Science",
+        "price": 567,
+        "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "featured": true,
+        "image": { "fields": { "file": { "url": "img/product-1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": 1 },
+      "fields": {
+        "name": "Cyber Security",
+        "price": 799,
+        "description": "Vegan 8-bit VHS squid. Migas cornhole woke quinoa. 3 wolf moon YOLO aesthetic. Wayfarers meh jianbing, pork belly semiotics succulents YOLO irony stumptown readymade umami woke.",
+        "featured": false,
+        "image": { "fields": { "file": { "url": "img/product-2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": 2 },
+      "fields": {
+        "name": "Web Development",
+        "price": 699,
+        "description": "Kale chips sustainable retro leggings, man braid bicycle rights af. Blog salvia pour-over affogato shoreditch. Street art hashtag thundercats cold-pressed small batch, kombucha single-origin coffee marfa gastropub health goth squid.",
+        "featured": true,
+        "image": { "fields": { "file": { "url": "img/product-3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": 3 },
+      "fields": {
+        "name": "Mobile App Development",
+        "price": 899,
+        "description": "Viral kickstarter everyday carry typewriter palo santo mixtape ugh vexillologist tofu. Stumptown knausgaard chartreuse raclette, poutine tumblr whatever. Waistcoat letterpress vexillologist live-edge tofu skateboard paleo cardigan jianbing.",
+        "featured": true,
+        "image": { "fields": { "file": { "url": "img/product-4.png" } } }
+      }
+    },
+    {
+      "sys": { "id": 4 },
+      "fields": {
+        "name": "Machine Learning Basics",
+        "price": 749,
+        "description": "Distillery hella cold-pressed, fixie tbh authentic mlkshk vexillologist. Street art slow-carb kickstarter chia. Chicharrones lomo viral neutra irony portland woke asymmetrical banh mi selvage.",
+        "featured": false,
+        "image": { "fields": { "file": { "url": "img/product-5.png" } } }
+      }
+    },
+    {
+      "sys": { "id": 5 },
+      "fields": {
+        "name": "Graphic Design Fundamentals",
+        "price": 599,
+        "description": "Chillwave literally chambray, kombucha whatever enamel pin occupy green juice williamsburg. Four dollar toast health goth chambray hot chicken truffaut brooklyn celiac polaroid skateboard tofu.",
+        "featured": true,
+        "image": { "fields": { "file": { "url": "img/product-6.png" } } }
+      }
+    },
+    {
+      "sys": { "id": 6 },
+      "fields": {
+        "name": "Python Programming",
+        "price": 899,
+        "description": "Marfa locavore quinoa plaid. Master cleanse chia cronut viral 90's tilde leggings. Heirloom kitsch vaporware VHS fanny pack pickled austin helvetica messenger bag.",
+        "featured": false,
+        "image": { "fields": { "file": { "url": "img/product-7.png" } } }
+      }
+    },
+    {
+      "sys": { "id": 7 },
+      "fields": {
+        "name": "Artificial Intelligence Concepts",
+        "price": 999,
+        "description": "Flexitarian kitsch single-origin coffee small batch, chillwave art party mumblecore authentic pitchfork street art. Tofu ethical lomo before they sold out venmo biodiesel.",
+        "featured": true,
+        "image": { "fields": { "file": { "url": "img/product-8.png" } } }
+      }
+    },
+    {
+      "sys": { "id": 8 },
+      "fields": {
+        "name": "Full Stack Development",
+        "price": 1099,
+        "description": "Pop-up yuccie kombucha, pinterest bicycle rights mlkshk prism brooklyn master cleanse celiac. Man bun messenger bag crucifix, irony tousled artisan ethical helvetica fanny pack.",
+        "featured": false,
+        "image": { "fields": { "file": { "url": "img/product-9.png" } } }
+      }
+    }
+   
+]
+}
